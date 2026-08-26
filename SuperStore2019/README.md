@@ -22,9 +22,9 @@ The dataset contains order-level retail transaction records, including:
 
 ## 🛠️ Tools & Technologies
 - **Python**
- - Pandas
- - NumPy
- - Matplotlib
+  - Pandas
+  - NumPy
+  - Matplotlib
 - **Google Colab**
 
 ## 📂 Project Contents
